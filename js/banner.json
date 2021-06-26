@@ -1,0 +1,22 @@
+[{
+    "src": "images/ban1.jpg",
+     "zIndex":5
+},
+{
+    "src": "images/ban2.jpg",
+    "zIndex":4
+},
+{
+    "src": "images/ban3.jpg",
+    "zIndex":3
+},
+{
+    "src": "images/ban4.jpg",
+    "zIndex":2
+},
+{
+    "src": "images/ban5.jpg",
+    "zIndex":1
+
+}
+]

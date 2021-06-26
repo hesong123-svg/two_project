@@ -1,0 +1,378 @@
+{
+    "classify1" : [
+        {
+            "title" : "互联网营销",
+            "list" : [
+                {
+                    "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5T6159327447WOW.jpg?x-oss-process=image/resize,w_285",
+                    "href": "https://www.baidu.com",
+                    "title" : "【进阶】 【直播】 抖音自媒体电商+私域...",
+                    "price" : 1111,
+                    "time" : 2
+                },
+                {
+                    "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                    "href": "https://www.baidu.com",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 3999.00,
+                     "time" : 13
+                },
+                {
+                    "src" : "images/F6516670696290IX.jpg",
+                    "href": "https://www.baidu.com",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 999.00,
+                     "time" : 5
+                },
+                {
+                    "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                    "href": "https://www.baidu.com",
+                    "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                    "price" : 5999,
+                    "time" : 24
+                }
+            ] 
+        },
+        {
+            "title" : "设计",
+            "list" : [
+                {
+                    "src" : "images/F1A1649225474KBK.jpg",
+                   "href" : "https://www.baidu.com",
+                    "title" : "无情设计，最为致命",
+                    "price" : 1000,
+                    "time" : 1
+                },
+                {
+                    "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                    "title" : "【进阶】 【直播】 抖音自媒体电商+私域...",
+                    "price" : 6999,
+                    "time" : 48
+                },
+                {
+                    "src" : "images/F6516670696290IX.jpg",
+                    "title" : "【进阶】 【直播】 抖音自媒体电商+私域...",
+                    "price" : 1999,
+                    "time" : 10
+                },
+                {
+                    "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                    "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                    "price" : 7999,
+                    "time" : 62
+                }
+            ]
+        },
+        {
+            "title" : "web前端",
+            "list" : [
+                {
+                    "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                   "href" : "https://www.taobao.com",
+                    "title" : "web前端请战",
+                    "price" : 1000,
+                    "time" : 5
+                },
+                {
+                    "src" : "images/F6516670696290IX.jpg",
+                    "title" : "【进阶】 【直播】 抖音自媒体电商+私域...",
+                    "price" : 3999,
+                    "time" : 9
+                },
+                {
+                    "src" : "images/F1A1649225474KBK.jpg",
+                    "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                    "price" : 2999,
+                    "time" : 7
+                },
+                {
+                    
+                        "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                         "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                         "price" : 5999,
+                         "time" : 18
+                }
+            ]
+        },
+        {
+            "title" : "程序开发",
+            "list" : [
+                {
+                   "src" : "images/F6516670696290IX.jpg",
+                    "title" : "程序开发在此",
+                    "price" : 10000,
+                    "time" : 10
+                },
+                {
+                    "src" : "images/F1A1649225474KBK.jpg",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 4999,
+                     "time" : 7
+                 },
+                 {
+                    "src" : "images/F231717181069X2I.png",
+                     "title" : "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 999,
+                     "time" : 7
+                 },
+                 {
+                    "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 2999,
+                     "time" : 10
+                 }
+            ]
+        }
+    ],
+    "classify2" : [
+     
+        {
+            "title" : "设计",
+            "list" : [
+                {
+                   "src" : "images/F6516670696290IX.jpg",
+                   "href" : "https://www.douyu.com",
+                    "title" : "设计在此",
+                    "price" : 1000,
+                    "time" : 1
+                },
+                {
+                    "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                    "href" : "https://www.douyu.com",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 4999,
+                     "time" : 12
+                 },
+                 {
+                    "src" : "images/F1A1649225474KBK.jpg",
+                    "href" : "https://www.douyu.com",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 5999,
+                     "time" : 10
+                 },
+                 {
+                    "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                     "title" : "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 1999,
+                     "time" : 15
+                 }
+            ]
+        },
+        {
+            "title" : "web前端",
+            "list" : [
+                {
+                   "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                   "href" : "https://www.taobao.com",
+                    "title" : "web前端在此",
+                    "price" : 9000,
+                    "time" : 5
+                },
+                {
+                    "src" : "images/F6516670696290IX.jpg",
+                    "href" : "https://www.taobao.com",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 3999,
+                     "time" : 9
+                 },
+                 {
+                    "src" : "images/F1A1649225474KBK.jpg",
+                    "href" : "https://www.taobao.com",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 999,
+                     "time" : 7
+                 },
+                 {
+                    "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                    "href" : "https://www.taobao.com",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 2999,
+                     "time" : 10
+                 }
+            ]
+        },
+        {
+            "title" : "程序开发",
+            "list" : [
+                {
+                   "src" : "images/F6516670696290IX.jpg",
+                    "title" : "程序开发在此",
+                    "price" : 10000,
+                    "time" : 10
+                },
+                {
+                    "src" : "images/F1A1649225474KBK.jpg",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 4999,
+                     "time" : 7
+                 },
+                 {
+                    "src" : "images/F231717181069X2I.png",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 999,
+                     "time" : 7
+                 },
+                 {
+                    "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 2999,
+                     "time" : 10
+                 }
+            ]
+        },
+        {
+            "title" : "Office",
+            "list" : [
+                {
+                   "src" : "images/F231717181069X2I.png",
+                    "title" : "Office在此",
+                    "price" : 10000,
+                    "time" : 10
+                },
+                {
+                    "src" : "images/F1A1649225474KBK.jpg",
+                     "title" : "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 4999,
+                     "time" : 7
+                 },
+                 {
+                    "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 999,
+                     "time" : 7
+                 },
+                 {
+                    "src" : "images/F6516670696290IX.jpg",
+                     "title" : "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 2999,
+                     "time" : 10
+                 }
+            ]
+        }
+    ],
+    "classify3" : [
+        {
+            "title" : "互联网营销",
+            "list" : [
+                {
+                   "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5T6159327447WOW.jpg?x-oss-process=image/resize,w_285",
+                   "href" : "https://www.jd.com",
+                    "title" : "平头哥在此",
+                    "price" : 1000,
+                    "time" : 1
+                },
+                {
+                    "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                    "href" : "https://www.jd.com",
+                     "title" : "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 3999,
+                     "time" : 12
+                 },
+                 {
+                    "src" : "images/F6516670696290IX.jpg",
+                    "href" : "https://www.jd.com",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 1999,
+                     "time" : 9
+                 },
+                 {
+                    "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                    "href" : "https://www.jd.com",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 999,
+                     "time" : 7
+                 }
+            ]
+        },
+        {
+            "title" : "设计",
+            "list" : [
+                {
+                   "src" : "images/F6516670696290IX.jpg",
+                   "href" : "https://www.baidu.com",
+                    "title" : "设计在此",
+                    "price" : 1000,
+                    "time" : 1
+                },
+                {
+                    "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 4999,
+                     "time" : 12
+                 },
+                 {
+                    "src" : "images/F1A1649225474KBK.jpg",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 5999,
+                     "time" : 10
+                 },
+                 {
+                    "src" : "images/F231717181069X2I.png",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 1999,
+                     "time" : 15
+                 }
+            ]
+        },
+        {
+            "title" : "web前端",
+            "list" : [
+                {
+                   "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                   "href" : "https://www.baidu.com",
+                    "title" : "web前端在此",
+                    "price" : 9000,
+                    "time" : 5
+                },
+                {
+                    "src" : "images/F6516670696290IX.jpg",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 3999,
+                     "time" : 9
+                 },
+                 {
+                    "src" : "images/F231717181069X2I.png",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 999,
+                     "time" : 7
+                 },
+                 {
+                    "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                     "title" : "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 2999,
+                     "time" : 10
+                 }
+            ]
+        },
+        {
+            "title" : "程序开发",
+            "list" : [
+                {
+                   "src" : "images/F231717181069X2I.png",
+                    "title" : "Office在此",
+                    "price" : 10000,
+                    "time" : 10
+                },
+                {
+                    "src" : "images/F1A1649225474KBK.jpg",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 4999,
+                     "time" : 7
+                 },
+                 {
+                    "src" : "http://xue.ujiuye.com/uploads_it/2005/QuanGuo/F5Q1545802989GXW.jpg?x-oss-process=image/resize,w_285",
+                     "title" :  "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 999,
+                     "time" : 7
+                 },
+                 {
+                    "src" : "images/F6516670696290IX.jpg",
+                     "title" : "【进阶】 【直播】 抖音自媒体电商+私域...",
+                     "price" : 2999,
+                     "time" : 10
+                 }
+            ]
+        }
+      
+    ]
+}

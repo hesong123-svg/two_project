@@ -1,0 +1,29 @@
+[
+    {
+        "src" : "video/a.mp4", "title" : "第一集 ：猴王初问世"
+    },
+    {
+        "src" : "video/b.mp4", "title" : "第二集 ：官封弼马温"
+    },
+    {
+        "src" : "video/a.mp4", "title" : "第三集 ：大圣闹天宫"
+    },
+    {
+        "src" : "video/b.mp4", "title" : "第四集 ：困囚五行山"
+    },
+    {
+        "src" : "video/a.mp4", "title" : "第五集 ：猴王保唐僧"
+    },
+    {
+        "src" : "video/b.mp4", "title" : "第六集 ：祸起观音院"
+    },
+    {
+        "src" : "video/b.mp4", "title" : "第七集 ：哪吒降世"
+    },
+    {
+        "src" : "video/a.mp4", "title" : "第八集 ：哪吒杀三太子"
+    },
+    {
+        "src" : "video/b.mp4", "title" : "第九集 ：唐僧取得真经"
+    }
+]

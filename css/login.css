@@ -1,0 +1,391 @@
+header {
+  height: 60px;
+  width: 100%;
+  background: #fff;
+  border-bottom: 1px solid #f1f1f1;
+}
+header #area {
+  width: 1200px;
+  height: 60px;
+  background: #ffffff;
+  margin: 0 auto;
+}
+header #area .logo {
+  width: 275px;
+  margin-top: 10px;
+  float: left;
+}
+header #area .list {
+  height: 60px;
+  position: relative;
+  font-size: 14px;
+  float: left;
+}
+header #area .list .test {
+  z-index: 2;
+}
+header #area .list .test:hover p {
+  display: block;
+}
+header #area .list .test:hover p a {
+  color: black;
+}
+header #area .list li:hover a {
+  color: #f40;
+}
+header #area .list .fire {
+  position: absolute;
+  left: 269px;
+}
+header #area .list i {
+  color: darkgray;
+}
+header #area .list li {
+  float: left;
+  width: 77px;
+  height: 60px;
+  position: relative;
+  text-align: center;
+  line-height: 60px;
+}
+header #area .list li a {
+  z-index: 1;
+  position: relative;
+}
+header #area .list li:hover em {
+  opacity: 1;
+  transform: scale(1.2);
+}
+header #area .list li .hide {
+  position: absolute;
+  top: 48px;
+  left: -14px;
+  width: 100px;
+  height: 82px;
+  background: #fff;
+  box-shadow: 0px 0px 5px #ededed;
+  text-align: center;
+  display: none;
+  z-index: 2;
+}
+header #area .list li .hide a:nth-child(3) {
+  position: absolute;
+  left: 22px;
+  top: 25px;
+}
+header #area .list li em {
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  opacity: 0;
+  transform: scale(0.5);
+  transition: .5s;
+  background: url(../images/emTip.png) no-repeat center;
+}
+header #area .list .cur {
+  width: 87px;
+  height: 32px;
+  line-height: 32px;
+  background: #fff;
+  border: 1px solid #f40;
+  margin-right: 0px;
+  text-align: center;
+  border-radius: 10px;
+  margin-top: 12px;
+}
+header #area .list .cur:hover p {
+  display: block;
+}
+header #area .list .cur a {
+  color: #f40;
+}
+header #area .list .code {
+  width: 200px;
+  height: 100px;
+  background: #fff;
+  box-shadow: 0px 0px 5px #ededed;
+  position: absolute;
+  top: 55px;
+  right: -60px;
+  display: none;
+  z-index: 2;
+}
+header #area .list .code img {
+  float: left;
+  margin-left: 10px;
+  margin-top: 14px;
+}
+header #area .list .code span:nth-child(2) {
+  display: -webkit-inline-box;
+  margin-top: 15px;
+}
+header #area .list-right {
+  float: right;
+}
+header #area .list-right i {
+  font-size: 20px;
+}
+header #area .list-right li {
+  float: left;
+  margin-top: 20px;
+  margin-right: 20px;
+  vertical-align: middle;
+}
+header #area .list-right .ipt {
+  width: 144px;
+  height: 30px;
+  border-radius: 50px;
+}
+header #area .list-right .glass {
+  font-size: 26px;
+}
+header #area #search {
+  width: 140px;
+  height: 30px;
+  border: 1px solid transparent;
+  border-radius: 30px;
+  float: left;
+  margin-top: 15px;
+  margin-left: 30px;
+}
+header #area #search #btn {
+  width: 17px;
+  height: 30px;
+  margin-right: 3px;
+  background: url(../images/etk_09.jpg) no-repeat center;
+  border: none;
+  float: right;
+}
+header #area #search #keywords {
+  width: 0px;
+  height: 26px;
+  padding-left: 10px;
+  float: right;
+  border: none;
+  background: none;
+  outline: none;
+}
+header #area .QR {
+  float: right;
+  position: relative;
+}
+header #area .QR i {
+  font-size: 26px;
+  margin-right: 20px;
+  display: inline-block;
+  margin-top: 10px;
+  z-index: 2;
+  cursor: pointer;
+}
+header #area .QR a {
+  margin-right: 20px;
+}
+header #area .QR .QR-1 {
+  width: 200px;
+  height: 200px;
+  background: #fff;
+  box-shadow: 0px 0px 5px #ededed;
+  position: absolute;
+  top: 55px;
+  right: 33px;
+  display: none;
+  z-index: 5;
+}
+header #area .QR .QR-1 p:nth-child(1) {
+  border-bottom: 1px dashed #f1f1f1;
+}
+header #area .QR .QR-1 img {
+  float: left;
+  margin-left: 10px;
+  margin-top: 14px;
+}
+header #area .QR .QR-1 span {
+  margin-left: 15px;
+  line-height: 37px;
+  font-size: 14px;
+}
+header #area .QR .QR-1 p {
+  height: 100px;
+}
+header #area .QR .QR-Z {
+  float: left;
+}
+header #area .QR .QR-Z:hover p {
+  display: block;
+}
+header #area .QR .QR-Z p {
+  position: absolute;
+  display: none;
+}
+header #area .QR .box:hover .QR-1 {
+  display: block;
+}
+main {
+  width: 100%;
+}
+#main {
+  width: 100%;
+  background: #fff;
+}
+#main .type {
+  width: 1200px;
+  height: 485px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+#main .type .code {
+  position: absolute;
+  font-size: 22px;
+  color: #2040a0;
+  font-family: fantasy;
+  font-style: italic;
+  top: 236px;
+  right: 737px;
+}
+#main .type .note {
+  position: absolute;
+  font-size: 12px;
+  color: #333333;
+  top: 300px;
+  right: 728px;
+  font-family: emoji;
+}
+#main .type .left {
+  width: 625px;
+  height: 395px;
+  float: left;
+}
+#main .type .left i {
+  height: 226px;
+  width: 1px;
+  display: block;
+  left: 624px;
+  top: 39px;
+  position: absolute;
+  background: #999999;
+}
+#main .type .left ul {
+  margin-top: 60px;
+  margin-left: 138px;
+}
+
+#main .type .left ul .li3 p {
+  margin-left: 73px;
+  width: 264px;
+  height: 41px;
+  background: #f40;
+  border: none;
+  line-height: 41px;
+  color: #fff;
+  text-align: center;
+  cursor: pointer;
+}
+#main .type .left li{
+  width: 530px;
+}
+#main .type .left em{
+  color: red;
+  padding-left: 8px;
+  display: none;
+}
+#main .type .left b{
+  color: green;
+  padding-left: 8px;
+  display: none;
+}
+#main .type .left span{
+  color: orange;
+  display: none;
+}
+#main .type .left label{
+  width: 70px;
+    text-align: right;
+    font-size: 14px;
+    color: #333;
+}
+#main .type .left .show{
+  display: inline-block;
+}
+#main .type .left ul .li5 {
+  margin-left: 232px;
+    margin-top: 7px;
+}
+#main .type .left ul .li5 a {
+  text-decoration: underline;
+  color: #f40;
+}
+#main .type .left ul input {
+  width: 260px;
+  height: 37px;
+  margin-bottom: 16px;
+  vertical-align: inherit;
+}
+#main .type .right {
+  width: 575px;
+  height: 395px;
+  background: #fff;
+  font-size: 14px;
+  float: right;
+}
+#main .type .right dl {
+  margin: 66px 0 0 100px;
+}
+#main .type .right dl a {
+  margin-right: 22px;
+}
+#main .type .right dt {
+  margin-bottom: 20px;
+}
+#main .type .right .d1 {
+  margin-bottom: 32px;
+}
+#main .type .right .d2 span {
+  color: #333333;
+}
+#main .type .right .d2 p {
+  line-height: 30px;
+  color: #666666;
+}
+#tail {
+  width: 100%;
+  height: 155px;
+  background: #404144;
+}
+#tail .tail-1 {
+  width: 1200px;
+  height: 155px;
+  margin: 0 auto;
+  color: #999999;
+  line-height: 28px;
+  position: relative;
+}
+#tail .tail-1 a {
+  color: #999999;
+}
+#tail .tail-1 img {
+  vertical-align: middle;
+}
+#tail .tail-1 dl {
+  text-align: center;
+  padding-top: 40px;
+}
+#tail .tail-1 dl a {
+  font-size: 14px;
+}
+#tail .tail-1 dt i {
+  margin: 0 8px;
+}
+#tail .tail-1 dt a:hover {
+  color: #f40;
+}
+#tail .tail-1 dd a:hover {
+  color: #f40;
+}
+#tail .tail-1 p {
+  position: absolute;
+  right: 104px;
+  top: 78px;
+}
